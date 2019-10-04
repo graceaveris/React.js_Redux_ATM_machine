@@ -2,7 +2,7 @@
 
 Intro to redux by building a super simple ATM app using react.js with redux.
 
-**Concepts Explored:**
+**Concepts Explored:** 
 
 - Redux basics and redux concepts for beginner
 - Integrating redux with react
